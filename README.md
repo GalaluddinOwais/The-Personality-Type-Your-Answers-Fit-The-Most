@@ -26,7 +26,9 @@
 
   (Open XAMPP control panel ➔ Click on "Start" for Apache module) 
 
-* Access the running application through the web browser ("http://localhost/source/index.php")
+* Access the running application through the web browser
+
+ ("http://localhost/source/index.php")
 
 # Run!
 
