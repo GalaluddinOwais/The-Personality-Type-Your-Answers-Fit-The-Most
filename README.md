@@ -24,7 +24,7 @@
 
 # Run!
 
-[mbtialikeanswers](https://www.mbtialikeanswers.epizy.com)
+[mbtialikeanswers](www.mbtialikeanswers.epizy.com)
 
 
 # Additional Notes
