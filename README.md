@@ -7,9 +7,9 @@
 
 
 # Requirements
- Web server environment `XAMPP`
+ Web server environment (`XAMPP`)
  
- `PHP`
+ `PHP` (`XAMPP` provides `PHP`)
  
  Web browser
 
