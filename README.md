@@ -16,11 +16,15 @@
 # Execution
 * Install a web server environment if not already installed
 
-* Locate the document root folder in the web server folders ("htdocs" for XAMPP)
+* Locate the document root folder in the web server folders
+
+* ("htdocs" for XAMPP)
 
 * Attach the folder with the php code files ("source") to the document root folder
 
-* Launch the local web server (Open XAMPP control panel ➔ Click on "Start" for Apache module) 
+* Launch the local web server
+
+* (Open XAMPP control panel ➔ Click on "Start" for Apache module) 
 
 * Access the running application through the web browser ("http://localhost/source/index.php")
 
