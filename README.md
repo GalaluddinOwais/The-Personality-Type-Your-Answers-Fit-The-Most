@@ -30,4 +30,4 @@ www.mbtialikeanswers.epizy.com
 
 
 # Additional Notes
-#### The project was about making use of electronic hardware. Using advanced methods like computer vision was out of the scope
+#### The application was implemented in mere HTML and PHP, despite the statistical calculations, and CSS was not used there, so the application is runnable on a free domain. However, one of the drawbacks of the application is that the implementation does not follow the best practice about moving from one question to another, as it navigates to a different page as it moves to the next question.
