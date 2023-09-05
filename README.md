@@ -18,13 +18,13 @@
 
 * Locate the document root folder in the web server folders
 
-* ("htdocs" for XAMPP)
+  ("htdocs" for XAMPP)
 
 * Attach the folder with the php code files ("source") to the document root folder
 
 * Launch the local web server
 
-* (Open XAMPP control panel ➔ Click on "Start" for Apache module) 
+  (Open XAMPP control panel ➔ Click on "Start" for Apache module) 
 
 * Access the running application through the web browser ("http://localhost/source/index.php")
 
