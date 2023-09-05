@@ -28,7 +28,7 @@
 
 * Access the running application through the web browser
 
- ("http://localhost/source/index.php")
+  ("http://localhost/source/index.php")
 
 # Run!
 
