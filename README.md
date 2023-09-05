@@ -8,7 +8,9 @@
 
 # Requirements
  Web server environment `XAMPP`
+ 
  `PHP`
+ 
  Web browser
 
 # Execution
