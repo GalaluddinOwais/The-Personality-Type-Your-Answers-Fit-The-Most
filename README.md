@@ -2,8 +2,8 @@
 #### This project aims to determine the user's personality type (Myers-Briggs Type Indicator) given their answers to a set of questions. This is achieved through statistical calculations using previously surveyed answers from individuals who were certain about their personality type
 
 # Key Achievements
-* Implemented the Calculation of the probability of a set of answers to be related to a certain personality type, which  by determining the percentage of one chosen answer compared to the surveyed answers to the same question from people with that personality type. This process is repeated for all the chosen answers, then the average percentage is taken as the probability of being related to that personality type. This calculation is performed for each of the 16 personality types
-* Built a simple web application that takes the user through a series of questions and compares their answers to previously saved answers for each personality type to calculate how similar their answers are to each of them and finally display the results
+* Implemented the calculation of the probability of a set of chosen answers to be related to a certain personality type. The process determines the percentage of presence of one chosen answer among the surveyed answers for the same question, surveyed from people with that personality type. This process is repeated for all the chosen answers, then the average percentage is taken as the probability of being related to that personality type. This calculation is performed for each of the 16 personality types
+* Built a simple web application that takes the user through a series of questions and compares their answers to previously surveyed answers for each personality type to calculate how similar their answers are to each of them and finally display the results
 * Published the web application and received overwhelmingly positive feedback from the users, who ensured the effectiveness of the method 
 
 
