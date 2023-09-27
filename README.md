@@ -1,5 +1,5 @@
 # About the project
-#### This project aims to determine the user's personality type (Myers-Briggs Type Indicator) given their answers to a set of questions. This is achieved through statistical calculations using previously surveyed answers from individuals who were certain about their personality type
+This project aims to determine the user's personality type (Myers-Briggs Type Indicator) given their answers to a set of questions. This is achieved through statistical calculations using previously surveyed answers from individuals who were certain about their personality type
 
 # Key Achievements
 * Implemented the calculation of the probability of a set of chosen answers to be related to a certain personality type. It is performed by determining the percentage of presence of one chosen answer among the surveyed answers for the same question, surveyed from people with that certain personality type. This process is repeated for all the chosen answers, then the average percentage is taken as the probability of being related to that certain personality type. This calculation is performed for each of the 16 personality types
@@ -37,6 +37,6 @@ www.mbtialikeanswers.epizy.com
 
 
 # Additional Notes
-#### The application was implemented in mere HTML and PHP, despite the statistical calculations, and CSS was not used there, so the application is runnable on a free domain. However, one of the drawbacks of the application is that the implementation does not follow the best practice about moving from one question to another, as it navigates to a different page as it moves to the next question.
+#### Despite the statistical calculations, the application was implemented in mere HTML and PHP, so it is runnable on a free domain. However, one of the drawbacks of the application is that the implementation does not follow the best practice about moving from one question to another, as it navigates to a different page as it moves to a next question.
 
 #### After the probability calculation method in this project proved successful, it inspired the introduction of [Alphabet Presence Probability Scanner](https://github.com/GalaluddinOwais/Alphabet-Presence-Probability-Scanner) project, which ensured the accuracy of the method
